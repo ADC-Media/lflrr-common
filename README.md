@@ -6,13 +6,8 @@ This library provides common data structures, utility functions, and other reusa
 
 You can use either `yarn add` or `npm install`
 
-1. **By a specific version (Recommended):**
-   ```bash
-   yarn add git+https://github.com/ADC-Media/lflrr-common.git@v0.1.0
-   ```
+```bash
+yarn add git+https://github.com/ADC-Media/lflrr-common.git#tag-or-branch
+```
 
-2. **By a specific branch:**
-   ```bash
-   yarn add git+https://github.com/ADC-Media/lflrr-common.git#branch-name
-   ```
-   Replace `branch-name` with the actual values of desired branch.
+Replace `tag-or-branch` with the actual value of desired tag (eg v1.0.0) or branch name (eg main)
