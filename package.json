@@ -1,6 +1,6 @@
 {
   "name": "lflrr-common",
-  "version": "0.1.0-dev.2",
+  "version": "0.2.0-dev.1",
   "type": "commonjs",
   "license": "MIT",
   "scripts": {
