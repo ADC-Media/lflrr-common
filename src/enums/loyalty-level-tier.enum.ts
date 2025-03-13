@@ -1,6 +1,6 @@
 export enum LoyaltyLevelTier {
-  Starter = "starter",
-  Silver = "silver",
-  Gold = "gold",
-  Platinum = "platinum",
+  STARTER = "starter",
+  SILVER = "silver",
+  GOLD = "gold",
+  PLATINUM = "platinum",
 }
