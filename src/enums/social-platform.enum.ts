@@ -1,4 +1,4 @@
 export enum SocialPlatform {
-  Instagram = "instagram",
-  Tiktok = "tiktok",
+  INSTAGRAM = "instagram",
+  TIKTOK = "tiktok",
 }

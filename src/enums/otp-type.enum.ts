@@ -1,5 +1,5 @@
 export enum OtpType {
-  SignUpAccount = "sign_up_account",
-  ForgotPassword = "forgot_password",
-  ChangePhoneNumber = "change_phone_number",
+  SIGN_UP_ACCOUNT = "sign_up_account",
+  FORGOT_PASSWORD = "forgot_password",
+  CHANGE_PHONE_NUMBER = "change_phone_number",
 }
